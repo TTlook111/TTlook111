@@ -85,18 +85,6 @@
 - **assistant-agent**: LangGraph-based multi-agent assistant (Human-in-the-Loop + SQLite persistence).
 - **vacuum-agent**: LangChain + ReAct vacuum customer-support agent (RAG for knowledge Q&A).
 
-### 🖼️ Demos | 截图（可选但更“作品集”）
-
-> 把截图提交到你的 **Profile 仓库**（例如 `assets/assistant-agent.png`、`assets/vacuum-agent.png`），然后取消下面注释即可。
-
-<!--
-<div align="center">
-  <img src="./assets/assistant-agent.png" width="820" alt="assistant-agent demo" />
-  <br/>
-  <img src="./assets/vacuum-agent.png" width="820" alt="vacuum-agent demo" />
-</div>
--->
-
 ---
 
 ## 🏆 Highlights | 亮点
