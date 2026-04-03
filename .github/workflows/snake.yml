@@ -11,9 +11,13 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      # 解决 GitHub Actions “Node.js 20 deprecated” 的迁移提示：提前强制用 Node.js 24 运行 JS Actions
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
     steps:
       - name: Generate snake SVG
-        uses: Platane/snk/svg-only@v3
+        # 使用 v3.x 最新版本（tag 内部仍属于 v3 系列）
+        uses: Platane/snk/svg-only@v3.4.1
         with:
           github_user_name: TTlook111
           outputs: |
@@ -21,7 +25,8 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+        # v5 已更新为 Node 24 runtime（减少未来兼容风险）
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
