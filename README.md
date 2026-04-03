@@ -97,18 +97,13 @@
 
 ## 📊 Stats | 统计
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TTlook111&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TTlook111&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+
 
 <div align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=TTlook111&theme=tokyonight&hide_border=true" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TTlook111&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TTlook111&theme=tokyo-night&hide_border=true&line=22d3ee&point=0ea5e9&area=true" />
