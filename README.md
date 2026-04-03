@@ -68,13 +68,22 @@
 ## 🧱 项目 | Projects
 
 <div align="center">
-  <a href="https://github.com/TTlook111/vacuum-agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TTlook111&repo=vacuum-agent&theme=tokyonight&hide_border=true" />
-  </a>
+  <!-- 用 GitHub 官方 OpenGraph 卡片：比第三方 pin 卡片更稳定，不容易裂图 -->
   <a href="https://github.com/TTlook111/assistant-agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TTlook111&repo=assistant-agent&theme=tokyonight&hide_border=true" />
+    <img src="https://opengraph.githubassets.com/1/TTlook111/assistant-agent" width="420" alt="assistant-agent" />
+  </a>
+  <a href="https://github.com/TTlook111/vacuum-agent">
+    <img src="https://opengraph.githubassets.com/1/TTlook111/vacuum-agent" width="420" alt="vacuum-agent" />
   </a>
 </div>
+
+**中文**
+- **assistant-agent**：基于 LangGraph 的多智能体个人助理（Human-in-the-Loop + SQLite 持久化）。
+- **vacuum-agent**：基于 LangChain + ReAct 的扫地机器人智能客服 Agent（结合 RAG 做知识问答）。
+
+**EN**
+- **assistant-agent**: LangGraph-based multi-agent assistant (Human-in-the-Loop + SQLite persistence).
+- **vacuum-agent**: LangChain + ReAct vacuum customer-support agent (RAG for knowledge Q&A).
 
 ### 🖼️ Demos | 截图（可选但更“作品集”）
 
