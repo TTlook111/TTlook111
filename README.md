@@ -113,8 +113,6 @@
 
 ## 🧊 3D Contrib | 3D 贡献图
 
-> 需要 Actions：添加 `profile-3d.yml` 后会自动生成到仓库目录 `profile-3d-contrib/`。
-
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="860" />
 </div>
@@ -123,7 +121,6 @@
 
 ## 🐍 Snake | 蛇形贡献图
 
-> 需要 Actions：添加 `snake.yml` 后会生成到 `output` 分支。
 
 <div align="center">
   <img alt="snake animation" src="https://raw.githubusercontent.com/TTlook111/TTlook111/output/github-contribution-grid-snake.svg" />
