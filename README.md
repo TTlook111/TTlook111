@@ -71,12 +71,6 @@
   <img height="170" src="https://streak-stats.demolab.com?user=TTlook111&theme=tokyonight&hide_border=true" />
 </div>
 
-
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TTlook111&theme=tokyo-night&hide_border=true&line=22d3ee&point=0ea5e9&area=true" />
-</div>
-
 ---
 
 ## 🧊 3D Contrib | 3D 贡献图
